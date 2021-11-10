@@ -75,7 +75,7 @@ class CustomObject{
                  Thread t=new Thread(run);
 		  t.start();
                   System.out.println(" Added");	
-		  System.out.println("new Branch1 *");
+		  System.out.println("new Branch1");
 		 /*executor.shutdown();*/
 			
 	}
